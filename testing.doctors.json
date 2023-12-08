@@ -1,0 +1,134 @@
+db.doctors.insertMany[
+{
+  "firstName": "John",
+  "lastName": "Doe",
+  "specialized": "Cardiologist",
+  "qualification": "MD",
+  "experience": "12",
+  "contactNumber": "123-456-7890",
+  "email": "john.doe@gmail.com",
+  "password":"johndoe123",
+  "address": "123 Main St, Cityville, State, 12345"
+},
+{
+  "firstName": "Alice",
+  "lastName": "Smith",
+  "specialized": "Cardiologist",
+  "qualification": "MS",
+  "experience": "15",
+  "contactNumber": "987-654-3210",
+  "email": "alice.smith@yahoo.com",
+  "password":"alicesmith123",
+  "address": "456 Oak St, Townsville, State, 56789"
+},
+{
+  "firstName": "Michael",
+  "lastName": "Johnson",
+  "specialized": "Cardiologist",
+  "qualification": "MD",
+  "experience": "10",
+  "contactNumber": "111-222-3333",
+  "email": "michael.johnson@gmail.com",
+  "password":"michael.john123",
+  "address": "789 Pine St, Villageton, State, 98765"
+},
+{
+  "firstName": "Eva",
+  "lastName": "Anderson",
+  "specialized": "Orthopedic Surgeon",
+  "qualification": "MD",
+  "experience": "14",
+  "contactNumber": "444-555-6666",
+  "email": "eva.anderson@yahoo.com",
+  "password":"eva.anderson123",
+  "address": "987 Elm St, Hamletville, State, 23456"
+},
+{
+  "firstName": "Robert",
+  "lastName": "Brown",
+  "specialized": "Orthopedic Surgeon",
+  "qualification": "MS",
+  "experience": "11",
+  "contactNumber": "777-888-9999",
+  "email": "robert.brown@gmail.com",
+  "password":"robert123",
+  "address": "321 Cedar St, Villagetown, State, 34567"
+},
+{
+  "firstName": "Grace",
+  "lastName": "Wilson",
+  "specialized": "Orthopedic Surgeon",
+  "qualification": "MD",
+  "experience": "13",
+  "contactNumber": "333-444-5555",
+  "email": "grace.wilson@yahoo.com",
+  "password":"grace123",
+  "address": "555 Maple St, Townville, State, 87654"
+},
+{
+  "firstName": "Daniel",
+  "lastName": "Miller",
+  "specialized": "Dermatologist",
+  "qualification": "MD",
+  "experience": "10",
+  "contactNumber": "999-888-7777",
+  "email": "daniel.miller@gmail.com",
+  "password":"daniel@123",
+  "address": "741 Birch St, Citytown, State, 76543"
+},
+{
+  "firstName": "Sophia",
+  "lastName": "Baker",
+  "specialized": "Dermatologist",
+  "qualification": "MS",
+  "experience": "12",
+  "contactNumber": "666-555-4444",
+  "email": "sophia.baker@yahoo.com",
+  "password":"sophia@123",
+  "address": "963 Pine St, Villagetown, State, 87654"
+},
+{
+  "firstName": "William",
+  "lastName": "Turner",
+  "specialized": "Dermatologist",
+  "qualification": "MD",
+  "experience": "14",
+  "contactNumber": "222-111-0000",
+  "email": "william.turner@gmail.com",
+  "password":"william123",
+  "address": "852 Oak St, Hamletville, State, 43210"
+},
+{
+  "firstName": "Olivia",
+  "lastName": "Smith",
+  "specialized": "Pediatrician",
+  "qualification": "MD",
+  "experience": "15",
+  "contactNumber": "111-222-3333",
+  "email": "olivia.smith@yahoo.com",
+  "password":"olivia123",
+  "address": "987 Elm St, Townsville, State, 23456"
+},
+{
+  "firstName": "James",
+  "lastName": "White",
+  "specialized": "Pediatrician",
+  "qualification": "MS",
+  "experience": "11",
+  "contactNumber": "777-888-9999",
+  "email": "james.white@gmail.com",
+  "password":"jameswhite@123",
+  "address": "321 Cedar St, Villagetown, State, 34567"
+},
+{
+  "firstName": "Emma",
+  "lastName": "Clark",
+  "specialized": "Pediatrician",
+  "qualification": "MD",
+  "experience": "13",
+  "contactNumber": "333-444-5555",
+  "email":"emma@yahoo.com",
+  "password": "emmaclark123",
+  "address":"555 Maple St, Citytown, State, 87654"
+ }
+ ];
